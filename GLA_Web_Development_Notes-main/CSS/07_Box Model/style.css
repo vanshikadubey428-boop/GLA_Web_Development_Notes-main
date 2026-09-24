@@ -1,0 +1,49 @@
+.box{
+    background-color: black;
+    color: white;
+    height: 150px;
+    width: 150px; 
+}
+
+#one{
+    margin: 10px;
+    padding: 10px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 50%;
+}
+
+#two{
+    margin: 10px 20px 30px 40px;
+    padding: 10px 20px 30px 40px;
+    border: dashed 1px black;
+}
+
+#three{
+    margin: 20px 40px;
+    padding: 20px 40px;
+    border-bottom: 2px dotted black;
+    
+}
+
+#four{
+    margin-left: 100px;
+    padding-left: 100px;
+    border: 1px solid black;
+    border-radius: 6px;
+}
+
+#border, #content{
+    border: 10px solid red;
+    padding: 20px;
+    margin: 20px;
+}
+
+#border{
+    box-sizing: border-box;
+}
+
+#content{
+    box-sizing: content-box;
+}

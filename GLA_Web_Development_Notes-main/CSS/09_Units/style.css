@@ -1,0 +1,24 @@
+.box{
+    /* height: 400px;
+    width: 50vw;
+    background-color: rgba(255, 0, 0, 0.5);
+    border: 2px solid black;
+    margin: 10px; */
+}
+
+
+html{
+    font-size: 30px;
+}
+
+#parent{
+    font-size: 20px;
+}
+
+#child{
+    /* height: 50%;
+    width: 50%;
+    background-color: whitesmoke;
+    border: 2px solid black; */
+    font-size: 2rem;
+}

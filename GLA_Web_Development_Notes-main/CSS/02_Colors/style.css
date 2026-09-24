@@ -1,0 +1,17 @@
+/* Type of Selectors */
+
+/* Universal Selector */
+*{
+    background-color: gray;
+}
+
+/* ID selector */
+#purple{
+    background-color: purple;
+    color: white;
+}
+
+/* Class Selector */
+.green{
+    background-color: green;
+}

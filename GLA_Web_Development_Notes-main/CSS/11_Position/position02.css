@@ -1,0 +1,14 @@
+.header{
+    /* background-color: rgb(140, 140, 115);
+    height: 60px;
+    padding: 1rem;
+    width: 100%; */
+    /* position: fixed;
+    top: 200px; */
+}
+
+.header{
+    position: sticky;
+    top: 0px;
+    background-color: rgb(139, 139, 119);
+}

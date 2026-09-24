@@ -1,0 +1,25 @@
+/* Universal Selector */
+*{
+    background-color: gray;
+}
+
+/* Element Selector */
+h1{
+    background-color: purple;
+}
+
+/* ID Selector */
+#purple{
+    background-color: green;
+}
+
+/* Class Selector */
+.myteam{
+    background-color: beige;
+}
+
+/* Element Grouping */
+
+#purple, .myteam{
+    color: brown;
+}

@@ -1,0 +1,22 @@
+/* Font size */
+
+*{
+      font-family: "Montserrat", sans-serif;
+}
+
+#size{
+    font-size: 40px;
+}
+
+#one{
+    font-weight: 100;
+}
+#two{
+    font-weight: 300;
+}
+#three{
+    font-weight: 600;
+}
+#four{
+    font-weight: 900;
+}

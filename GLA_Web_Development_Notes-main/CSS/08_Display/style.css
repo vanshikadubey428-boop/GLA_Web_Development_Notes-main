@@ -1,0 +1,17 @@
+.box{
+    height: 150px;
+    width: 150px;
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px;
+    font-size: 23px;
+    font-weight: bold;
+    /* display: inline; */
+    /* display: block; */
+    display: inline-block;
+}
+
+#three{
+    /* display: none; */
+    visibility: hidden;
+}
